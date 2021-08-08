@@ -2,6 +2,6 @@
 
 ## Visualizing Restaurant food with Augmented Reality capabilities with a click of a button to minimize food wastage.
 
-## Link to the Restaurent App: [Click Here](https://previewer.adalo.com/69555dba-1dc1-4fea-a845-e329c31e6135)
+## Link to the App: [Click Here](https://previewer.adalo.com/69555dba-1dc1-4fea-a845-e329c31e6135)
 
 
