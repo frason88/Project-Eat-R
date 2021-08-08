@@ -12,7 +12,10 @@
 - Sketchfab
 - Synthesia.ai
 
-## Link to 3D objects along wiht restaurent details can be found [here](https://github.com/frason88/Project-EatAR/blob/main/List%20of%203D%20Objects.pdf)
+## Link to 3D objects along with restaurent details can be found [here](https://github.com/frason88/Project-EatAR/blob/main/List%20of%203D%20Objects.pdf)
+
+## What's next for EatAR
+Since this is just the beginning we will upload more AR hologram models along with 3D Model in the future to make it look more easy to use, we will also try to make our webapp more imtractive for small restaurent business to analyse there customer needs.
 
 
 
