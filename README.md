@@ -1,4 +1,4 @@
-# # ![Image](https://github.com/frason88/Project-EatAR/blob/main/logo.png)
+![Image](https://github.com/frason88/Project-EatAR/blob/main/logo.png)
 
 ## Project EatAR
 Visualizing Restaurant food with Augmented Reality capabilities with a click of a button to minimize food wastage.
